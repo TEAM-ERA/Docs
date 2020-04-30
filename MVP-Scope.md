@@ -4,6 +4,7 @@
 Emergencies, although can be managed, are inevitable in our everyday activities. Most of the emergency cases recorded at our health care centers were not reported prior getting to the hospital. The health centers find it difficult in responding to the few cases that were reported earlier. This is as a result of the nature of the street layout and naming in our country (Ghana). Ambulances find it difficult in locating victims in the various location, which sometimes leads to death. One of the things the health sector could do to enhance the response to emergencies, is to educate the general public on first aid tips and any other health tips. Unfortunately, there is no effective way to provide accurate up-to-date information on first aid and health tips. We believe there is approach to this.
 ### Technology
 Emergency Response Assistance is a two-way system approach to solve the critical problems associated with the current emergency response system in Ghana.  
+  
 **Emergencies Response Assistant** an android app that enables user to report emergency cases with their accurate locations with just a click of button. Users can also get up-to-date health tips and first-aid procedures published in real time.  
   
 **Emergencies Response Admin** a web-based tool that helps emergency unit to receive and respond to emergency cases reported. The tool also aids health authorities to publish health tips and first-aids procedures  
